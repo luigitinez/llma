@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8"/>
+<head>
+<title>Luigi's Page</title>
+</head>
+<style>
+
+@font-face {
+    font-family: 'ABeeZee'; /*a name to be used later*/
+    src: url('ABeeZee-Regular.otf'); /*URL to font*/
+}
+p {
+	font-family:'ABeeZee';
+} 
+</style>
+<body>
+<p>
+Lorem fistrum fistro a peich pupita condemor pupita torpedo me cago en tus muelas se calle ustée. Ese que llega de la pradera quietooor pecador tiene musho peligro benemeritaar me cago en tus muelas ahorarr diodenoo caballo blanco caballo negroorl hasta luego Lucas. Caballo blanco caballo negroorl a wan qué dise usteer pupita la caidita está la cosa muy malar hasta luego Lucas. Sexuarl a peich torpedo a gramenawer pupita a wan no puedor a wan a wan. Por la gloria de mi madre me cago en tus muelas al ataquerl amatomaa sexuarl de la pradera papaar papaar. Te va a hasé pupitaa te va a hasé pupitaa va usté muy cargadoo ese pedazo de fistro. Quietooor no puedor te va a hasé pupitaa diodenoo te voy a borrar el cerito amatomaa al ataquerl. Te voy a borrar el cerito fistro ahorarr benemeritaar diodeno benemeritaar de la pradera condemor ese que llega ese pedazo de.</p>
+
+
+Va usté muy cargadoo apetecan diodenoo pupita amatomaa llevame al sircoo. Me cago en tus muelas caballo blanco caballo negroorl quietooor ese hombree. Diodeno diodenoo papaar papaar te va a hasé pupitaa amatomaa pupita jarl mamaar sexuarl. Benemeritaar a peich fistro de la pradera diodenoo. Ese hombree está la cosa muy malar por la gloria de mi madre se calle ustée por la gloria de mi madre quietooor jarl a wan va usté muy cargadoo. Ese pedazo de sexuarl me cago en tus muelas amatomaa papaar papaar quietooor ese que llega a peich amatomaa ahorarr jarl. No te digo trigo por no llamarte Rodrigor no te digo trigo por no llamarte Rodrigor pupita hasta luego Lucas fistro torpedo jarl por la gloria de mi madre de la pradera te voy a borrar el cerito. 
+</body>
+</html>
